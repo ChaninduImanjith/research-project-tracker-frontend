@@ -198,15 +198,6 @@ development  ← integration branch
 feat/*       ← individual feature branches
 fix/*        ← bug fix branches
 ```
-
-### Commit Message Convention
-```
-feat: add project creation modal
-fix: handle 401 token expiry redirect
-refactor: extract StatusBadge component
-docs: update README with API endpoints
-```
-
 ---
 
 ## 📸 Screenshots
