@@ -7,7 +7,7 @@ A responsive, role-based React + TypeScript single-page application for managing
 ## 📋 Assignment Context
 
 **Assignment 2: Front-End Development with React**  
-Educational Institute: IJSE (Institute of Java and Software Engineering)  
+Educational Institute: IJSE (Institute of Software Engineering)  
 Backend: Spring Boot REST API with JWT authentication
 
 ---
