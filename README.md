@@ -211,11 +211,12 @@ docs: update README with API endpoints
 
 ## 📸 Screenshots
 
-> Add screenshots after running the application locally.
-
+> ![alt text](images/image.png)
+![alt text](images/image-1.png)
+![alt text](images/image-2.png)
 ---
 
 ## 👨‍💻 Author
 
 **Chanindu Imanjith**  
-CMJD Final Project — Institute of Java and Software Engineering (IJSE)
+CMJD Final Project — Institute of Software Engineering (IJSE)
